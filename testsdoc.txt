@@ -1,0 +1,76 @@
+(DM) Test 001: PASSED
+(DM) Test 002: PASSED
+(DM) Test 003: PASSED
+(DM) Test 004: PASSED
+(DM) Test 005: PASSED
+(DM) Test 006: PASSED
+(DM) Test 007: PASSED
+(DM) Test 008: PASSED
+(DM) Test 009: PASSED
+(DM) Test 010: PASSED
+(DM) Test 011: PASSED
+(DM) Test 012: PASSED
+(DM) Test 013: PASSED
+(DM) Test 014: PASSED
+(DM) Test 015: PASSED
+(DM) Test 016: PASSED
+(DM) Test 017: PASSED
+(DM) Test 018: PASSED
+(DM) Test 019: PASSED
+(DM) Test 020: PASSED
+(DM) Test 021: PASSED
+(DM) Test 022: PASSED
+(DM) Test 023: PASSED
+(DM) Test 024: PASSED
+(DM) Test 025: PASSED
+(DM) Test 026: PASSED
+(DM) Test 027: PASSED
+(DM) Test 029: PASSED
+(DM) Test 031: PASSED
+(DM) Test 032: PASSED
+(DM) Test 034: PASSED
+(DM) Test 035: PASSED
+(DM) Test 036: PASSED
+(DM) Test 038: PASSED
+(DM) Test 039: PASSED
+(DM) Test 040: PASSED
+(DM) Test 041: PASSED
+(DM) Test 044: PASSED
+(DM) Test 045: PASSED
+(DM) Test 046: PASSED
+(DM) Test 047: PASSED
+(DM) Test 048: PASSED
+(DM) Test 049: PASSED
+(DM) Test 053: PASSED
+(DM) Test 054: FAILED -- Copiar uma linha com um literais e referências e ver
+(DM) Test 056: PASSED
+(DM) Test 057: FAILED -- Copiar uma linha com funções e literais e ver
+(DM) Test 058: FAILED -- Copiar uma linha vazia e ver
+(DM) Test 061: PASSED
+(DM) Test 062: PASSED
+(DM) Test 064: PASSED
+(DM) Test 066: PASSED
+(DM) Test 067: FAILED -- Cortar uma linha com um literais e referências e ver folha e cut buffer
+(DM) Test 072: FAILED -- colar uma linha para uma posição
+(DM) Test 074: PASSED
+(DM) Test 075: PASSED
+(DM) Test 076: PASSED
+(DM) Test 080: FAILED -- colar uma coluna para uma posição que passa limite da folha
+(DM) Test 081: FAILED -- colar uma coluna para uma coluna
+(DM) Test 083: FAILED -- colar cut buffer com linha vazia para uma linha com dimensão igual
+(DM) Test 089: PASSED
+(DM) Test 090: FAILED -- colar uma posição numa posição
+(DM) Test 091: PASSED
+(DM) Test 101: PASSED
+(DM) Test 102: PASSED
+(DM) Test 103: PASSED
+(DM) Test 104: PASSED
+(DM) Test 105: PASSED
+(DM) Test 108: PASSED
+(DM) Test 111: PASSED
+(DM) Test 114: PASSED
+(DM) Test 115: PASSED
+(DM) Test 120: PASSED
+(DM) Test 122: PASSED
+(DM) Test 124: PASSED
+(DM) Test 127: PASSED 
